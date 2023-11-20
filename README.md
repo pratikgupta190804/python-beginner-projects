@@ -1,2 +1,2 @@
 # python-beginner-projects
-Python beginner mini projects
+You can Copy the code and use it for your Knowledge
