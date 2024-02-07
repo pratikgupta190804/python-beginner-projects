@@ -33,7 +33,7 @@ while(game_number < 9):
             globals()[f'n_{player1}'] = "X"
             alreay_used_place.append(player1)
             player1_has_answered = True
-            player1_has_answered = False
+            player2_has_answered = False
             game_number = game_number + 1
         else:
             print("Place is already occupied OR Place out of board. Please choose another place")
